@@ -9,7 +9,7 @@ The more disciples a god has, the more powerful they are.  As a minor deity, you
   * **Style** - Renassaince master.  Turner.
   * **Power** - Defense
 * **Violent**
-  * Kill disciples directly
+  * **Philosphy** - Kill disciples directly
   * **Style** - Sin city.  Batman.  Watchman.
   * **Power** - Offense, destroy
 * **Mystic**
