@@ -6,15 +6,12 @@ The more disciples a god has, the more powerful they are.  As a minor deity, you
 
 * **Peaceful**
   * **Philosphy** - Make and convert discliples.  Kill indirectly.
-  * **Style** - Renassaince master.  Turner.
   * **Power** - Defense
 * **Violent**
   * **Philosphy** - Kill disciples directly
-  * **Style** - Sin city.  Batman.  Watchman.
   * **Power** - Offense, destroy
 * **Mystic**
   * **Philosphy** - Opponents disciples continue to exist but are no longer disclipes.  Anti fundamentalist.
-  * **Style** - LSD Greatful Dead, White Zombie, Sgt Peppers
   * **Power** - Draw
 
 ## Card Types
