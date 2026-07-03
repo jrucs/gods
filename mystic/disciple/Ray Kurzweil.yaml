@@ -1,0 +1,6 @@
+card:
+  name: Ray Kurzweil
+  type: Disciple
+  cost: VV1
+  text:
+    - The age of spiritual machines....

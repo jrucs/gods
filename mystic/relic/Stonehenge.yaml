@@ -1,0 +1,19 @@
+card:
+  name: Stonehenge
+  type: Relic
+  cost: MM
+  text:
+    - Tap to produce MM.
+    - The rudeness of the work increases this cause of grandeur, as it excludes the idea of art and contrivance; for dexterity produces another sort of effect, which is different enough from this. -Edmund Burke
+    prompt:
+    - Use a 9:16 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right.
+    - The background of the card should be blue and green.
+    - The image should be of Stonehenge, depicted with ancient stones arranged in a circle under a mystical sky.
+    - The image and card in general should be in the style of Grateful Dead album covers, with vibrant colors and a whimsical, psychedelic feel. Use the refence card as a guide.

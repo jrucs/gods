@@ -1,0 +1,19 @@
+card:
+  name: Grok a Wrongness
+  type: Miracle
+  cost: MM
+  text:
+    - Target object is destroyed.  Place it in the discard pile.
+    - But goodness alone is never enough. A hard, cold wisdom is required for goodness to accomplish good. Goodness without wisdom always accomplishes evil. -Robert Heinlein
+  prompt:
+    - Use a 9:16 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right followed by a dash and the combat.
+    - The background of the card should be blue and green.
+    - The image should be of a man meditating at the bottom of a swimming pool.
+    - The image and card in general should be in the style of Grateful Dead album covers, with vibrant colors and a whimsical, psychedelic feel. Use the refence card as a guide.

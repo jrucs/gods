@@ -1,0 +1,19 @@
+card:
+  name: Stoned Immaculate
+  type: Miracle
+  cost: MM
+  text:
+    - Go through your deck and pick five cards.  Discard them.
+    - Out here in the perimeter there are no stars. Out here we is stoned. Immaculate. -Jim Morrison
+  prompt:
+    - Use a 9:16 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right.
+    - The background of the card should be blue and green.
+    - The image should be of a woman floating in space among stars, with a serene expression on her face.
+    - The image and card in general should be in the style of Grateful Dead album covers, with vibrant colors and a whimsical, psychedelic feel. Use the refence card as a guide.

@@ -1,0 +1,19 @@
+card:
+  name: Small Gods
+  type: Miracle
+  cost: MMMM
+  text:
+    - Each player picks a single disciple.  All other disciples are destroyed.
+    - The trouble with being a god is that you’ve got no one to pray to. -Terry Pratchett, Small Gods
+    prompt:
+    - Use a 9:16 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right followd by a dash and the combat.
+    - The background of the card should be blue and green.
+    - The image should be of a small divine turtle.
+    - The image and card in general should be in the style of Grateful Dead album covers, with vibrant colors and a whimsical, psychedelic feel. Use the refence card as a guide.

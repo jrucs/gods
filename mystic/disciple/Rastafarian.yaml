@@ -1,0 +1,7 @@
+card:
+  name: Rastafarian
+  type: Disciple
+  cost: 0
+  combat: 0/1
+  text:
+    - Sun is shining.  Weather is sweet. -Bob Marley

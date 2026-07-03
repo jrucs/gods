@@ -1,0 +1,20 @@
+card:
+  name: Max Romeo
+  type: Disciple
+  cost: MM1
+  combat: 1/3
+  text:
+    - Tap to produce M.
+    - Every time I open my mouth, I must be giving praise. Every time I move my hand, it must be something positive. But it's always about Rastafari. -Max Romeo
+  prompt:
+    - Use a 9:16 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right followed by a dash and the combat.
+    - The background of the card should be blue and green.
+    - The image should be of Max Romeo singing with a vibrant, reggae-inspired, psychedelic background.
+    - The image and card in general should be in the style of Grateful Dead album covers, with vibrant colors and a whimsical, psychedelic feel. Use the refence card as a guide.

@@ -1,0 +1,7 @@
+card:
+  name: Philip K Dick
+  type: Disciple
+  cost: 0
+  combat: 0/1
+  text:
+    - Somethign

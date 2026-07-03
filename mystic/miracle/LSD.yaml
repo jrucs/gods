@@ -1,0 +1,19 @@
+card:
+  name: LSD
+  type: Miracle
+  cost: MM
+  text:
+    - Draw 3 cards.
+    - LSD was an incredible experience. Not that I’m recommending it for anybody else; but for me it kind of – it hammered home to me that reality was not a fixed thing. That the reality that we saw about us every day was one reality, and a valid one – but that there were others, different perspectives where different things have meaning that were just as valid.  -Alan Moore
+  prompt:
+    - Use a 9:16 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right followed by a dash and the combat.
+    - The background of the card should be blue and green.
+    - The image should be of a a psychedelic scene with vibrant colors, swirling patterns, and abstract shapes that evoke the feeling of an altered state of consciousness.
+    - The image and card in general should be in the style of Grateful Dead album covers, with vibrant colors and a whimsical, psychedelic feel. Use the refence card as a guide.

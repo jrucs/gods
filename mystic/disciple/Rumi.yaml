@@ -1,0 +1,7 @@
+card:
+  name: Rumi
+  type: Disciple
+  cost: 0
+  combat: 0/1
+  text:
+    - Consider two men doing laundry... -Rumi

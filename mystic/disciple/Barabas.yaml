@@ -1,0 +1,20 @@
+card:
+  name: Barabas
+  type: Disciple
+  cost: 0
+  combat: 1/1
+  text:
+    - Tap to produce M.
+    - Was there any meaning to the life he had led? Not even that did he believe in. But this was something he knew nothing about. It was not for him to judge. -Pär Lagerkvist
+  prompt:
+    - Use a 9:16 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right followd by a dash and the combat.
+    - The background of the card should be blue and green.
+    - The image should be of Barabas from the bible, looking up at Jesus being crucified.
+    - The image and card in general should be in the style of Grateful Dead album covers, with vibrant colors and a whimsical, psychedelic feel. Use the refence card as a guide.

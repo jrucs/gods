@@ -1,0 +1,21 @@
+card:
+  name: Bob Marley
+  type: Disciple
+  cost: VV1
+  combat: 0/2
+  text:
+    - Tap to produce M.
+    - All mystic creatures gain +1/+1
+    - This could be the first trumpet, might as well be the last.  Many more will have to suffer, many more will have to die. Don't ask me why. -Bob Marley
+  prompt:
+    - Use a 9:16 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right followd by a dash and the combat.
+    - The background of the card should be blue and green.
+    - The image should be of Bob Marley playing a guitar.
+    - The image and card in general should be in the style of Grateful Dead album covers, with vibrant colors and a whimsical, psychedelic feel. Use the refence card as a guide.

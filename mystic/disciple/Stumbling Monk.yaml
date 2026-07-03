@@ -1,0 +1,7 @@
+card:
+  name: Stumbling Monk
+  type: Disciple
+  cost: 0
+  combat: 1/1
+  text:
+    - Some joke.

@@ -1,0 +1,19 @@
+card:
+  name: VALIS
+  type: Relic
+  cost: MMM
+  text:
+    - Tap and MMM to turn a creature into a 0/1 Gnostic.
+    - The distinction between sanity and insanity is narrower than a razor's edge, sharper than a hound's tooth, more agile than a mule deer. -Philip K Dick
+  prompt:
+    - Use a 9:16 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right.
+    - The background of the card should be blue and green.
+    - The image should be of a mystical a laser beam descending from space, engulfing a figure in light, symbolizing divine knowledge and transformation.
+    - The image and card in general should be in the style of Grateful Dead album covers, with vibrant colors and a whimsical, psychedelic feel. Use the refence card as a guide.

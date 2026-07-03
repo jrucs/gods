@@ -1,0 +1,20 @@
+card:
+  name: Common House Cat
+  type: Disciple
+  cost: 0
+  combat: 1/1
+  text:
+    - Tap to prduce an M.
+    - Cats are cryptic, and close to strange things which men cannot see. -H.P. Lovecraft
+  prompt:
+    - Use a 9:16 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right followd by a dash and the combat.
+    - The background of the card should be blue and green.
+    - The image should be of a common house cat sitting gracefully on a windowsill, looking outside with curious eyes.
+    - The image and card in general should be in the style of Grateful Dead album covers, with vibrant colors and a whimsical, psychedelic feel.

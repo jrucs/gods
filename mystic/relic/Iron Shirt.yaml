@@ -1,0 +1,20 @@
+card:
+  name: Iron Shirt
+  type: Relic
+  cost: M
+  text:
+    - Creature gains +1/+2
+    - I'm gonna put on a iron shirt and chase Satan out of Earth. -Max Romeo
+    prompt:
+    - Use a 9:16 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right.
+    - The background of the card should be blue and green.
+    - The image should be of Max Romeo wearing an iron shirt, standing strong and defiant, with a radiant aura around him.
+    - The image and card in general should be in the style of Grateful Dead album covers, with vibrant colors and a whimsical, psychedelic feel. Use the refence card as a guide.
+

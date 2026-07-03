@@ -1,0 +1,19 @@
+card:
+  name: Standing Stones of Stenness
+  type: Relic
+  cost: MMMM
+  text:
+    - Tap to produce MMMM.
+    - Standing Stones, called by the inhabitants of Orkney the Temple of the Moon; they are formed into a semicircle. –Reverend George Low
+    prompt:
+    - Use a 9:16 aspect ratio for the output image
+    - The card should have a black border.
+    - The card should fill the remainder of the space.
+    - There should be a space for an image.
+    - There should be a box for text.
+    - The name goes in the upper left.
+    - The cost goes in the lower left.
+    - The type goes in the bottom right.
+    - The background of the card should be blue and green.
+    - The image should be of the Standing Stones of Stenness, depicted with ancient stones arranged in a circle under a mystical sky.
+    - The image and card in general should be in the style of Grateful Dead album covers, with vibrant colors and a whimsical, psychedelic feel. Use the refence card as a guide.
